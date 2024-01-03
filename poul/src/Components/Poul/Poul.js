@@ -7,7 +7,7 @@ const Poul = () => {
     const [productionData, setProductionData] = useState([]);
     const [formData, setFormData] = useState({
         productionNumber: '',
-        numberOfHens: '',
+        numberOfHens: '' ,
         eggsLaid: '',
         quantityOfMeatSold: '',
         feedConsumption: '',
